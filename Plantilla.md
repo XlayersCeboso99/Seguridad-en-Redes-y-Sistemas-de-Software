@@ -1,4 +1,4 @@
-Descripción
-Solución
-Notas Adicionales
-Referencias
+## Descripción
+## Solución
+## Notas Adicionales
+## Referencias
