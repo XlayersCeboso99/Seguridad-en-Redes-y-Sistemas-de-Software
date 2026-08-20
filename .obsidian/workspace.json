@@ -125,16 +125,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/01 - General Skills/02 - 2Warm.md",
+                "file": "PICO CTF/01 - General Skills/07 - whats a net cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - 2Warm"
+              "title": "07 - whats a net cat"
+            }
+          },
+          {
+            "id": "d33e21388b6cba45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PICO CTF/01 - General Skills/08 - Plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 - Plumbing"
+            }
+          },
+          {
+            "id": "34e39726221d07c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PICO CTF/01 - General Skills/09 - Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 - Glitch Cat"
+            }
+          },
+          {
+            "id": "08eab1a42553067b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PICO CTF/01 - General Skills/10 - Nice netcat....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 - Nice netcat..."
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -301,18 +343,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "558a71a1bb311b72",
+  "active": "08eab1a42553067b",
   "lastOpenFiles": [
-    "PICO CTF/01 - General Skills/03 -  Warmed.md",
-    "PICO CTF/01 - General Skills/02 - 2Warm.md",
-    "PICO CTF/01 - General Skills/01 - Lets Warm Up.md",
-    "Plantilla.md",
-    "PICO CTF/01 - General Skills/04 - Bases.md",
-    "README.md",
-    "PICO CTF",
+    "PICO CTF/01 - General Skills/09 - Glitch Cat.md",
+    "PICO CTF/01 - General Skills/08 - Plumbing.md",
     "PICO CTF/01 - General Skills/07 - whats a net cat.md",
     "PICO CTF/01 - General Skills/06 - Obedient Cat.md",
     "PICO CTF/01 - General Skills/05 - First Grep.md",
+    "PICO CTF/01 - General Skills/04 - Bases.md",
+    "PICO CTF/01 - General Skills/03 -  Warmed.md",
+    "PICO CTF/01 - General Skills/02 - 2Warm.md",
+    "PICO CTF/01 - General Skills/01 - Lets Warm Up.md",
+    "PICO CTF/01 - General Skills/10 - Nice netcat....md",
+    "Plantilla.md",
+    "Pasted image 20260819195309.png",
+    "README.md",
+    "PICO CTF",
     "Bienvenido.md",
     "PICO CTF/01 - General Skills"
   ]
