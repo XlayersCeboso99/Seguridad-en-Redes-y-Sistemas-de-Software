@@ -5,7 +5,7 @@ The system admin has provisioned an account for you on the main server:
 
 `ssh -p 50342 [picoplayer@saturn.picoctf.net](mailto:picoplayer@saturn.picoctf.net)`
 
-Password: `UYiOazkqY2`
+Password: `UYiOazkqY2`.
 
 Can you login and read the root file?
 

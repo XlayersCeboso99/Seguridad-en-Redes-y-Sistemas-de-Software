@@ -1,7 +1,7 @@
 ## Descripción
 How well can you perfom basic binary operations?
 
-Start searching for the flag here `nc titan.picoctf.net 56943`
+Start searching for the flag here `nc titan.picoctf.net 56943`.
 ## Solución
 ```
 XlayersCeboso-academy@webshell:~$ ssh -p 58944 ctf-player@atlas.picoctf.net

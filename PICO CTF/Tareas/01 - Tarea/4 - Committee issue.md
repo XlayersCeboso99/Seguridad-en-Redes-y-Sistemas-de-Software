@@ -1,7 +1,7 @@
 ## Descripción
 I accidentally wrote the flag down. Good thing I deleted it!
 
-You download the challenge files here:
+You download the challenge files here:.
 
 - [challenge.zip](https://artifacts.picoctf.net/c_titan/138/challenge.zip)
 

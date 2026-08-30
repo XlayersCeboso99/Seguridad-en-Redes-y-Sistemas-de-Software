@@ -5,7 +5,7 @@ Use ssh to connect to this server:
 
 `Server: saturn.picoctf.net Port: 60689 Username: picoplayer Password: ENAFb6zfzn`
 
-Instance
+Instance.
 
 Expires in 14:48
 
