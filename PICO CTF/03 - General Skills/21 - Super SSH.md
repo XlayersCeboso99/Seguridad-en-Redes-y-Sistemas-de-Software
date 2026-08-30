@@ -27,3 +27,4 @@ Connection to titan.picoctf.net closed.
 ## Notas Adicionales
 ## Referencias
 - https://webshell.cylabacademy.org/
+- https://linux.die.net/man/1/ssh
