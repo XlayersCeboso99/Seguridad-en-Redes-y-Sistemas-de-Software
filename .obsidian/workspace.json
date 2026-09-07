@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/01 PICO_CTF_WEB/06 Client-side-again.md",
+                "file": "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/06 Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/02 PICO_CTF_WEB/01 GET aHEAD.md",
+                "file": "PICO CTF/PICO CTF WEB/02 PICO_CTF_WEB/01 GET aHEAD.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/02 PICO_CTF_WEB/02 Cookies.md",
+                "file": "PICO CTF/PICO CTF WEB/02 PICO_CTF_WEB/02 Cookies.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,28 +214,30 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "13cae3d4cef97f15",
   "lastOpenFiles": [
+    "PICO CTF/PICO CTF WEB/02 PICO_CTF_WEB/01 GET aHEAD.md",
+    "PICO CTF/PICO CTF WEB",
+    "Plantilla.md",
     "Sin título.canvas",
-    "PICO CTF/02 PICO_CTF_WEB/03 Scavenger Hunt.md",
-    "PICO CTF/02 PICO_CTF_WEB/02 Cookies.md",
-    "PICO CTF/02 PICO_CTF_WEB/01 GET aHEAD.md",
+    "PICO CTF/PICO CTF WEB/02 PICO_CTF_WEB/02 Cookies.md",
+    "PICO CTF/PICO CTF WEB/02 PICO_CTF_WEB/03 Scavenger Hunt.md",
     "Pasted image 20260902185841.png",
-    "PICO CTF/01 PICO_CTF_WEB/01 Insp3ct0r.md",
-    "PICO CTF/01 PICO_CTF_WEB/02 Where are the robots.md",
-    "PICO CTF/01 PICO_CTF_WEB/06 Client-side-again.md",
-    "PICO CTF/02 PICO_CTF_WEB",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/01 Insp3ct0r.md",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/02 Where are the robots.md",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/06 Client-side-again.md",
+    "PICO CTF/PICO CTF WEB/02 PICO_CTF_WEB",
     "README.md",
     "PICO CTF/03 - General Skills/21 - Super SSH.md",
     "PICO CTF/02 - General Skills/11 - Based.md",
-    "Plantilla.md",
-    "PICO CTF/01 PICO_CTF_WEB/03 Logon.md",
-    "PICO CTF/01 PICO_CTF_WEB/04 Dont-use-client-side.md",
-    "PICO CTF/01 PICO_CTF_WEB/05 Picobrowser.md",
-    "PICO CTF/01 PICO_CTF_WEB",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/03 Logon.md",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/04 Dont-use-client-side.md",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB/05 Picobrowser.md",
+    "PICO CTF/PICO CTF WEB/01 PICO_CTF_WEB",
     "PICO CTF/Tareas/01 - Tarea/10 - ASCII Numbers.md",
     "PICO CTF/Tareas/01 - Tarea/09 - Binhexa.md",
     "PICO CTF/Tareas/01 - Tarea/08 - Binary search.md",
