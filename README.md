@@ -3,5 +3,5 @@
 
 ## Notas de hacking de los retos resueltos durante el semestre
 
-- Sebastián Guerra Hernández 
+- Sebastián Guerra Hernández
 - sebastianguerra.ing@gmail.com
