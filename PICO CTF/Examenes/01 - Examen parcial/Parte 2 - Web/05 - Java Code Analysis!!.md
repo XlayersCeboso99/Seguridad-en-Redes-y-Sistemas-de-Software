@@ -114,3 +114,4 @@ academy{w34k_jwt_n0t_g00d_d3a1bea8}
 ## Notas Adicionales
 
 ## Referencias
+- Kali Linux
